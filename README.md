@@ -224,6 +224,52 @@ p.note { display: none; }
 <a href="20260619_026.JPG" target="_blank"><img src="20260619_026.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260619_027.JPG" target="_blank"><img src="20260619_027.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<a href="20260619_004.png" target="_blank"><img src="20260619_004.png" alt="サンプル画像" class="responsive-media"></a>
+
+<a href="20260619_028.JPG" target="_blank"><img src="20260619_028.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260619_029.JPG" target="_blank"><img src="20260619_029.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260619_030.JPG" target="_blank"><img src="20260619_030.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<a href="20260619_005.png" target="_blank"><img src="20260619_005.png" alt="サンプル画像" class="responsive-media"></a>
+
+<a href="20260619_031.JPG" target="_blank"><img src="20260619_031.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260619_032.JPG" target="_blank"><img src="20260619_032.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f8_gqhT9AXc?si=XmkEfN67Ogw7kCQP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlmv1jZVq8Y?si=xs8HXWSY2ei-l5R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TWUz0OCpP30?si=aW7WaBVRwlUrd8RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DcYfVsJn5N8?si=A_d3uxQ0MbfpTE2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+
+<a href="20260619_033.JPG" target="_blank"><img src="20260619_033.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260619_034.JPG" target="_blank"><img src="20260619_034.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260619_035.JPG" target="_blank"><img src="20260619_035.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260619_036.JPG" target="_blank"><img src="20260619_036.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260619_037.JPG" target="_blank"><img src="20260619_037.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pwxhLKixrqA?si=U7u2Hfr-IlPjGlUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nex0e6-fpQs?si=RiCOyXcSUxeZaukd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<a href="20260619_038.JPG" target="_blank"><img src="20260619_038.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260619_039.JPG" target="_blank"><img src="20260619_039.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260619_040.JPG" target="_blank"><img src="20260619_040.JPG" alt="サンプル画像" class="responsive-media"></a>
+
 <!--
 <h2><span class="yellow">今回の撮影範囲は、おおむね赤枠のエリア</span></h2>
 <a href="20260228_059.PNG" target="_blank"><img src="20260228_059.PNG" alt="サンプル画像" class="responsive-media"></a>
