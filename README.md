@@ -188,13 +188,9 @@ p.note { display: none; }
 <a href="20260619_012.JPG" target="_blank"><img src="20260619_012.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260619_013.JPG" target="_blank"><img src="20260619_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<a href="20260618_009.JPG" target="_blank"><img src="20260618_009.JPG" alt="サンプル画像" class="responsive-media"></a>
-
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BH7GptxlxhE?si=34ZNrUZvcUZ7_tT2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
-
-<a href="20260618_010.JPG" target="_blank"><img src="20260618_010.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FcjN-V9iccw?si=_xJx_wvTAGuxAf4R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
